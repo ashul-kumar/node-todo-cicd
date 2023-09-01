@@ -5,5 +5,4 @@ services:
     image: "trainwithshubham/node-app-test-new:latest"
     ports:
       - "8000:8000"
-     service:
-       docker-compose up --build -d my-service
+     
